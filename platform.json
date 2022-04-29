@@ -31,6 +31,12 @@
       "owner": "platformio",
       "version": "~1.90201.0"
     },
+    "framework-arduino-mbed-seeed": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "~2.6.1"
+    },
     "framework-arduino-mbed": {
       "type": "framework",
       "optional": true,
